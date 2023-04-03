@@ -1,0 +1,8 @@
+#!/bin/bash
+# Author: srv
+# Date Created: 31/08/2023
+# Description: This script will output "Legend Annapoorna" on the screen
+# Date Modified: 30/08/2023
+echo
+echo Legend Annapoorna
+echo

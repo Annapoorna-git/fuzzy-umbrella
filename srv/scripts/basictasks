@@ -1,0 +1,23 @@
+#!/bin/bash
+# Author: srv
+# Date Created: 02/21/2023
+# Description: Run basic linux tasks
+# Date Modified: 02/21/2023
+
+echo
+echo This script will run a few basic tasks
+echo
+pwd
+echo
+ls
+echo
+whoami
+echo
+date
+echo
+cal
+echo
+touch z x n
+echo End of script
+
+

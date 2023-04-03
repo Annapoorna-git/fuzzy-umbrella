@@ -1,0 +1,10 @@
+#!/bin/bash
+
+clear
+if [ -e /root/myscripts/error.txt ]
+
+        then
+	echo "File exist"
+	else
+	echo "file ila muditu check panu"
+fi

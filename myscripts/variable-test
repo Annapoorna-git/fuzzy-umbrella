@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Author: Srv
+# Date created: 03/04/2023
+# Descripition: Variable
+# Date Modified: 03/04/2023
+
+# Define variables
+p=pwd
+l=ls
+wi=whoami
+d=date
+c="cal 2019"
+a=Annapoorna
+echo Run variables tasks
+echo
+$p
+$l
+$wi
+$d
+$c
+$a
+

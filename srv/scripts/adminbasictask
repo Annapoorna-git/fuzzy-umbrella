@@ -1,0 +1,22 @@
+#!/bin/bash
+# Author: Anna
+# Date created: 03/04/2023
+# Descripition: This script will run basic adminstrative commands
+# Date Modified: 03/04/2023
+
+echo
+echo This script will run basic adminstrative commands
+echo
+top | head -10
+echo
+df -h
+echo 
+free -m
+echo
+uptime
+echo
+iostat
+echo
+echo End of Script
+
+
